@@ -1,0 +1,21 @@
+course: "Fahreigenschaften I"
+chapter: "Kap. 2 Reifenkräfte"
+source: "FE_1_Kap_2_Reifenkräfte_WS26_27(1).pdf"
+date: "2026-10-19"
+independent_from_NRT: true
+p01_05:
+  closed_book:
+    status: PARTIAL
+    score: "9/10"
+    evidence: "tests/fe_reifenkraefte_p01_05_20261019.md"
+    weakness: "Karkasse vs Stahlgürtel"
+    retest_pending: true
+  open_book:
+    status: NOT_STARTED
+p06_10:
+  lecture_explanation: DONE
+  closed_book:
+    status: NOT_STARTED
+  open_book:
+    status: NOT_STARTED
+note: "仅讲过不等于PASS；NRT config/course.yaml与status/mastery.yaml不动"
