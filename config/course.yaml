@@ -1,24 +1,22 @@
 course:
-  title: "TODO: Course title"
-  code: "TODO"
-  institution: "TODO"
-  semester: "TODO"
-  language: "TODO: e.g. English"
-
+  title: "Einführung in die Regelungstechnik"
+  code: "NRT (student label; official module code unverified)"
+  institution: "Universität Stuttgart — Institut für Systemtheorie und Regelungstechnik"
+  semester: null
+  language: "German (Chinese explanations, German-English terminology)"
 exam:
   date: null
-  format: "TODO: closed-book/open-book/mixed"
+  format: "UNVERIFIED"
   duration_minutes: null
   allowed_materials: []
   question_types: []
-  scoring_notes: "TODO"
-
+  scoring_notes: "Exam details not provided; do not infer them from lecture handouts."
 learning:
   explanation_language: "Chinese"
   preserve_english_terms: true
-  target: "understanding + recognition + fast retrieval + correct solving"
+  preserve_german_terms: true
+  target: "source-faithful understanding + problem recognition + computation + retrieval"
   current_pass: 1
-
 collaboration:
   reference_ai: "GPT"
   source_of_truth: "GitHub"

@@ -1,13 +1,32 @@
 schema_version: 1
-sources: []
-
-# Example entry:
-# - id: slides_ch01
-#   type: lecture_slides
-#   path: sources/slides/ch01.pdf
-#   fingerprint: "sha256-or-platform-file-id"
-#   imported_by_operation: "YYYYMMDDTHHMMSSZ-SRC-SLIDES"
-#   title: "Chapter 1"
-#   official: true
-#   coverage: "pages 1-40"
-#   notes: ""
+sources:
+  - id: nrt_h1_nyquist
+    type: lecture_handout
+    title: "Handout zu Themenblock 1: Nyquist-Stabilitätskriterium"
+    filename: "H-1-Nyquist.pdf"
+    path: "chatgpt-library:/Regelungstechnik/H-1-Nyquist.pdf"
+    repository_copy: false
+    sha256: "8a3ba7392906a900b94df30ccfa52ee09c2fa8f122a5449370c690459f3e886e"
+    imported_by_operation: "NRT-20261019-SRC-SLIDES-01"
+    version: "4572.3.4"
+    page_count: 4
+    institution: "Universität Stuttgart, Institut für Systemtheorie und Regelungstechnik"
+    author: "Prof. Dr.-Ing. Dr. h.c. Frank Allgöwer"
+    official: true
+    coverage: "Pages 1-4, Nyquist criterion, phase-turning lemma, proof, critical point"
+    notes: "Original binary preserved in ChatGPT Library, NOT uploaded to GitHub. See sources/slides/README.md."
+  - id: nrt_h1_robustheit
+    type: lecture_handout
+    title: "Handout zu Themenblock 1: Robustheit der Stabilität"
+    filename: "H-1-Robuste_Stabilitaet.pdf"
+    path: "chatgpt-library:/Regelungstechnik/H-1-Robuste_Stabilitaet.pdf"
+    repository_copy: false
+    sha256: "f9eace15688eb4fdf2188cbc1cdeb1a7c924279626440c3987f0d95af9e0b273"
+    imported_by_operation: "NRT-20261019-SRC-SLIDES-01"
+    version: "4572.7.2"
+    page_count: 1
+    institution: "Universität Stuttgart, Institut für Systemtheorie und Regelungstechnik"
+    author: "Prof. Dr.-Ing. Dr. h.c. Frank Allgöwer"
+    official: true
+    coverage: "Page 1, robust stability, gain margin and phase margin"
+    notes: "Original binary preserved in ChatGPT Library, NOT uploaded to GitHub."
