@@ -19,3 +19,17 @@ p06_10:
   open_book:
     status: NOT_STARTED
 note: "仅讲过不等于PASS；NRT config/course.yaml与status/mastery.yaml不动"
+
+current_source_review:
+  operation_id: "FE-20261020-P01-10-DEZH-01"
+  date: "2026-10-20"
+  source_id: "fe_kap02_reifenkraefte_ws2627_upload2"
+  filename: "FE_1_Kap_2_Reifenkräfte_WS26_27(2).pdf"
+  sha256: "00bafe73bfbbb48bd0b3e10d62b8490058b727639036c1f9558b8312b9948f29"
+  pdf_pages: "1-10"
+  text_and_visual_review: DONE
+  detailed_notes: "kb/fe_reifenkraefte_p01_10_detailed.md"
+  new_learner_answers: false
+  mastery_change: NONE
+  next_pdf_page: 11
+  next_action: "Continue with PDF pages 11-20; Karkasse/Stahlgürtel retest remains pending."

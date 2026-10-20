@@ -30,3 +30,20 @@ sources:
     official: true
     coverage: "Page 1, robust stability, gain margin and phase margin"
     notes: "Original binary preserved in ChatGPT Library, NOT uploaded to GitHub."
+  - id: fe_kap02_reifenkraefte_ws2627_upload2
+    type: lecture_slides
+    course: "Fahreigenschaften I"
+    title: "Kapitel 2 Reifenkräfte"
+    filename: "FE_1_Kap_2_Reifenkräfte_WS26_27(2).pdf"
+    path: "chatgpt-conversation://6ad71664-7c94-83ed-b574-6877f1d0c371"
+    repository_copy: false
+    sha256: "00bafe73bfbbb48bd0b3e10d62b8490058b727639036c1f9558b8312b9948f29"
+    page_count: 124
+    institution: "Universität Stuttgart, Institut für Fahrzeugtechnik Stuttgart"
+    lecturer: "Dr.-Ing. Dipl.-Math. Jens Neubeck"
+    slide_date: "2026-10-12"
+    imported_by_operation: "FE-20261020-P01-10-DEZH-01"
+    reviewed_pdf_pages: "1-10"
+    visual_review: true
+    notes_path: "kb/fe_reifenkraefte_p01_10_detailed.md"
+    notes: "Current attachment was read locally. The filename differs from the historical (1) upload; binary equivalence is unverified. Pages 11-124 remain for later batches."
