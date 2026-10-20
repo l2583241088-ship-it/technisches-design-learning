@@ -43,7 +43,11 @@ sources:
     lecturer: "Dr.-Ing. Dipl.-Math. Jens Neubeck"
     slide_date: "2026-10-12"
     imported_by_operation: "FE-20261020-P01-10-DEZH-01"
-    reviewed_pdf_pages: "1-10"
+    reviewed_pdf_pages: "1-20"
     visual_review: true
     notes_path: "kb/fe_reifenkraefte_p01_10_detailed.md"
-    notes: "Current attachment was read locally. The filename differs from the historical (1) upload; binary equivalence is unverified. Pages 11-124 remain for later batches."
+    notes_paths:
+      - "kb/fe_reifenkraefte_p01_10_detailed.md"
+      - "kb/fe_reifenkraefte_p11_20_detailed.md"
+    last_review_operation: "FE-20261020-P11-20-DEZH-01"
+    notes: "Current attachment reviewed through page 20. Historical (1) binary equivalence unverified. Pages 21-124 remain for later batches."

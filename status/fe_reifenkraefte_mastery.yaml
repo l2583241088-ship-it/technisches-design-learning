@@ -21,15 +21,28 @@ p06_10:
 note: "仅讲过不等于PASS；NRT config/course.yaml与status/mastery.yaml不动"
 
 current_source_review:
-  operation_id: "FE-20261020-P01-10-DEZH-01"
+  operation_id: "FE-20261020-P11-20-DEZH-01"
   date: "2026-10-20"
   source_id: "fe_kap02_reifenkraefte_ws2627_upload2"
   filename: "FE_1_Kap_2_Reifenkräfte_WS26_27(2).pdf"
   sha256: "00bafe73bfbbb48bd0b3e10d62b8490058b727639036c1f9558b8312b9948f29"
-  pdf_pages: "1-10"
+  pdf_pages: "1-20"
   text_and_visual_review: DONE
-  detailed_notes: "kb/fe_reifenkraefte_p01_10_detailed.md"
+  detailed_notes:
+    - "kb/fe_reifenkraefte_p01_10_detailed.md"
+    - "kb/fe_reifenkraefte_p11_20_detailed.md"
   new_learner_answers: false
   mastery_change: NONE
-  next_pdf_page: 11
-  next_action: "Continue with PDF pages 11-20; Karkasse/Stahlgürtel retest remains pending."
+  next_pdf_page: 21
+  next_action: "Continue with PDF pages 21-30; Karkasse/Stahlgürtel retest remains pending."
+
+p11_20:
+  lecture_notes: DONE
+  source_pages_visually_reviewed: true
+  operation_id: "FE-20261020-P11-20-DEZH-01"
+  notes: "kb/fe_reifenkraefte_p11_20_detailed.md"
+  closed_book:
+    status: NOT_STARTED
+  open_book:
+    status: NOT_STARTED
+  new_learner_answers: false
